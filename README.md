@@ -1,5 +1,4 @@
-# module5- assignment solution
-
+Module 5 Coding Assignment
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
 Last assignment and you are DONE!
